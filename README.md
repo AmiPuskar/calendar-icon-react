@@ -1,11 +1,11 @@
-#Calender Icon with current day date month.
+# Calender Icon with current day date month.
 
-#Step 1
+# Step 1
 Run
 ## `yarn`
 
 
-#Step 2
+# Step 2
 Run
 ### `yarn start`
 
