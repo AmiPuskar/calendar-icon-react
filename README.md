@@ -1,7 +1,7 @@
 # Getting Started with Create React App.
 # Calender Icon with current day date month.
 
-![calendar](https://github.com/AmiPuskar/calendar-icon-react/assets/78972943/ce9654c1-9485-433c-a55b-2bd38f285179)
+![calendar](https://github.com/AmiPuskar/calendar-icon-react/assets/78972943/15ffa01c-d782-441f-991d-81fea4466c29)
 
 # Step 1 Run
 ## `yarn`
